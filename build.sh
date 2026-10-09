@@ -1,0 +1,1 @@
+docker build -t matchianna-image:latest -f matchianna.dockerfile .
